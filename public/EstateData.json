@@ -1,0 +1,110 @@
+[
+  {
+    "image": "https://i.ibb.co/f1mpcbY/4194.jpg",
+    "estate_title": "Modern Family Home in Suburbia",
+    "id": "001",
+    "segment_name": "Single Family Home",
+    "description": "Nestled in a serene suburban neighborhood, this modern family home offers the perfect blend of style and functionality. With spacious living areas adorned with elegant finishes and abundant natural light, this residence provides an inviting atmosphere for everyday living and entertaining. The gourmet kitchen is equipped with high-end appliances and ample counter space, ideal for culinary enthusiasts. Retreat to the luxurious master suite featuring a spa-like ensuite bathroom and a private balcony overlooking the landscaped backyard. Additional highlights include a versatile bonus room, perfect for a home office or playroom, and a tranquil outdoor oasis with a sparkling swimming pool and lush greenery. Conveniently located close to schools, parks, and amenities, this home offers the epitome of suburban living.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "2500 sqft",
+    "location": "Suburban Neighborhood, City X",
+    "facilities": ["living room", "swimming pool", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/d5tCHW9/54b61886e7d4850ec05309dc931c8a67.png",
+    "estate_title": "Luxury Downtown Apartment",
+    "id": "002",
+    "segment_name": "Apartment",
+    "description": "Experience luxurious urban living in this stunning downtown apartment. Located in the heart of the vibrant city, this high-rise residence offers breathtaking panoramic views of the skyline. The sleek and modern interior features open-concept living spaces, perfect for entertaining guests or relaxing in style. The gourmet kitchen boasts top-of-the-line appliances and sleek countertops, while the expansive windows flood the space with natural light. Retreat to the lavish master suite, complete with a spa-inspired ensuite bathroom and walk-in closet. Residents also have access to a range of amenities, including a state-of-the-art fitness center, rooftop terrace, and concierge services. With easy access to dining, shopping, and entertainment options, this apartment offers the ultimate urban lifestyle.",
+    "price": "$3,000/month",
+    "status": "rent",
+    "area": "1200 sqft",
+    "location": "Downtown District, City Y",
+    "facilities": ["living room", "gym", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/dWbqcTK/lake-cottage-exterior.jpg",
+    "estate_title": "Cozy Cottage by the Lake",
+    "id": "003",
+    "segment_name": "Cottage",
+    "description": "Escape to this charming lakeside cottage nestled in the tranquil countryside. Surrounded by picturesque views of the lake and lush greenery, this cozy retreat offers a peaceful sanctuary away from the hustle and bustle of city life. The inviting interior features rustic wood accents and comfortable furnishings, creating a warm and welcoming atmosphere. Curl up by the fireplace in the spacious living room, or enjoy al fresco dining on the scenic patio overlooking the water. The well-appointed kitchen is equipped with modern appliances and ample storage space, perfect for preparing delicious meals. Whether you're seeking a weekend getaway or a permanent residence, this cottage is sure to enchant you with its idyllic charm and natural beauty.",
+    "price": "$300,000",
+    "status": "sale",
+    "area": "1500 sqft",
+    "location": "Lakefront, Countryside",
+    "facilities": ["living room", "fireplace", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/xqQp9Fw/traditional-kids.jpg",
+    "estate_title": "Family-Friendly Townhouse",
+    "id": "004",
+    "segment_name": "Townhouse",
+    "description": "Discover the perfect blend of comfort and convenience in this family-friendly townhouse. Located in a desirable residential community, this spacious home offers ample room for the whole family to spread out and relax. The open-concept living area is ideal for entertaining guests, with a seamless flow from the living room to the dining area and kitchen. The chef-inspired kitchen boasts modern appliances and plenty of counter space, making meal prep a breeze. Upstairs, you'll find a generous master suite with a private ensuite bathroom and walk-in closet, along with two additional bedrooms and a shared bathroom. Enjoy summer barbecues in the fenced backyard or take a stroll to the nearby parks and playgrounds. With easy access to schools, shopping, and transit, this townhouse offers the perfect combination of comfort and convenience for modern family living.",
+    "price": "$400,000",
+    "status": "sale",
+    "area": "1800 sqft",
+    "location": "Residential Community, Suburbs",
+    "facilities": ["living room", "backyard", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/b2MTfQ9/villa-anavaya-samui-seaview.jpg",
+    "estate_title": "Elegant Villa with Ocean View",
+    "id": "005",
+    "segment_name": "Villa",
+    "description": "Indulge in luxury living in this elegant villa overlooking the sparkling ocean waters. Nestled in a prestigious coastal community, this expansive residence offers unparalleled sophistication and style. The grand foyer welcomes you with its soaring ceilings and sweeping staircase, setting the tone for the luxurious interiors that await. Entertain guests in the spacious living room, featuring floor-to-ceiling windows that capture the stunning views of the coastline. The gourmet kitchen is a chef's dream, equipped with top-of-the-line appliances and a large island for casual dining. Retreat to the luxurious master suite, complete with a private balcony overlooking the ocean and a spa-like ensuite bathroom with a soaking tub and walk-in shower. Outside, the resort-style grounds feature a sparkling swimming pool, lush gardens, and multiple outdoor entertaining areas. With direct access to the beach and close proximity to dining, shopping, and entertainment options, this villa offers the ultimate coastal lifestyle.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "4000 sqft",
+    "location": "Coastal Area, City Z",
+    "facilities": ["living room", "swimming pool", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/F6s9Kjp/Le-Mas-de-Foussargues-France-01-1-Kindesign.jpg",
+    "estate_title": "Charming Farmhouse Retreat",
+    "id": "006",
+    "segment_name": "Farmhouse",
+    "description": "Escape to the serene countryside in this charming farmhouse retreat. Surrounded by rolling hills and picturesque views, this rustic home offers a peaceful sanctuary away from the hustle and bustle of city life. The inviting interior features exposed wooden beams, cozy fireplaces, and comfortable furnishings, creating a warm and welcoming atmosphere. Gather with family and friends in the spacious living room, or enjoy home-cooked meals in the country-style kitchen. Upstairs, you'll find a tranquil master suite with a private balcony overlooking the scenic landscape, along with two additional bedrooms and a shared bathroom. Outside, the sprawling grounds offer plenty of space for outdoor activities, with a garden, fruit trees, and a peaceful pond. Whether you're seeking a weekend retreat or a permanent residence, this farmhouse is sure to charm you with its idyllic setting and rustic elegance.",
+    "price": "$700,000",
+    "status": "sale",
+    "area": "3000 sqft",
+    "location": "Rural Area, Farmland",
+    "facilities": ["living room", "garden", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/PrjWnqM/Arts-District-Loft-04.jpg",
+    "estate_title": "Contemporary Loft in Arts District",
+    "id": "007",
+    "segment_name": "Loft",
+    "description": "Embrace urban living in this contemporary loft located in the heart of the bustling arts district. This stylish residence features an open-concept layout with industrial-chic design elements, including exposed brick walls, high ceilings, and polished concrete floors. The spacious living area is perfect for entertaining guests, with plenty of room for lounging and dining. The sleek kitchen is equipped with modern appliances and a large island for casual dining. Retreat to the tranquil bedroom area, separated from the main living space for added privacy. Residents also have access to a range of amenities, including a rooftop terrace with panoramic city views, a fitness center, and a communal lounge area. With galleries, restaurants, and theaters just steps away, this loft offers the ultimate urban lifestyle for those seeking culture and creativity.",
+    "price": "$2,500/month",
+    "status": "rent",
+    "area": "1500 sqft",
+    "location": "Arts District, City X",
+    "facilities": ["living room", "studio space", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/hg5JqRG/mountainsideretreat-74.jpg",
+    "estate_title": "Mountain Retreat Cabin",
+    "id": "008",
+    "segment_name": "Cabin",
+    "description": "Experience the beauty of nature in this cozy mountain retreat cabin. Tucked away in the tranquil wilderness, this rustic home offers a peaceful escape from the hustle and bustle of everyday life. The inviting interior features exposed wooden beams, a stone fireplace, and comfortable furnishings, creating a warm and welcoming atmosphere. Curl up with a good book in the spacious living room, or gather with family and friends for board games by the fire. The well-appointed kitchen is equipped with modern appliances and plenty of counter space for preparing delicious meals. Upstairs, you'll find a serene master suite with a private balcony overlooking the scenic mountain views, along with two additional bedrooms and a shared bathroom. Outside, the expansive deck is perfect for enjoying the fresh mountain air and breathtaking sunsets. Whether you're seeking a weekend getaway or a permanent residence, this cabin offers the perfect blend of comfort and tranquility.",
+    "price": "$250,000",
+    "status": "sale",
+    "area": "1000 sqft",
+    "location": "Mountain Range, Wilderness",
+    "facilities": ["living room", "fireplace", "kitchen"]
+  },
+  {
+    "image": "https://i.ibb.co/mcTbsLR/im-552743.jpg",
+    "estate_title": "Waterfront Mansion",
+    "id": "009",
+    "segment_name": "Mansion",
+    "description": "Discover ultimate luxury living in this breathtaking waterfront mansion. Boasting unparalleled elegance and sophistication, this residence offers an exquisite blend of opulence and comfort. The grand foyer welcomes you with its sweeping staircase and stunning chandelier, setting the tone for the luxurious interiors that await. With expansive living spaces bathed in natural light, including multiple formal and informal areas, this mansion is perfect for both grand entertaining and intimate gatherings. The gourmet kitchen is a chef's dream, equipped with top-of-the-line appliances and ample space for culinary creativity. Retreat to the lavish master suite, complete with a spa-like ensuite bathroom and private balcony overlooking the serene waterfront views. Additional features include a state-of-the-art home theater, a wine cellar, and a fitness center. Outside, the meticulously landscaped grounds offer a resort-style oasis with a sparkling swimming pool, lush gardens, and private dock. Located in an exclusive waterfront community, this mansion epitomizes luxury living at its finest.",
+    "price": "$5,000,000",
+    "status": "sale",
+    "area": "8000 sqft",
+    "location": "Exclusive Waterfront Community, City Z",
+    "facilities": ["living room", "swimming pool", "home theater"]
+  }
+]
